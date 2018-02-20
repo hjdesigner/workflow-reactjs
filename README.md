@@ -19,7 +19,7 @@
 
 ## Up and running
 
-- Clone this repository: `git clone git@github.com:fdaciuk/workflow-reactjs.git`;
+- Clone this repository: `git clone git@github.com:hjdesigner/workflow-reactjs.git`;
 - Remove `.git` directory;
 - Install dependencies: `yarn` (or `npm i`);
 - Run `yarn dev` (or `npm start`) to develop on `http://localhost:3000`
